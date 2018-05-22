@@ -113,8 +113,7 @@ e.	One (1) Student Food Resource Centre Coordinator
     3.	Student Orientation Committee (SOC) , as a voting member; 
     4.	Homecoming Committee, as a voting member; 
     5.	Performing Arts Committee, as a voting member; 
-    6.	Recruitment Campaign Committee; 
-    7.	Students’ Union Representative Council, as a non-voting member. 
+    6.	Students’ Union Representative Council, as a non-voting member. 
 
 14.	The VP-Activities and Events shall perform all other functions as requested by the President of the Students’ Union. 
 
